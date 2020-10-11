@@ -75,6 +75,15 @@ body{
 .rotate{
     transform: rotate(180deg);
 }
+footer{
+    position: absolute;
+    padding-bottom: 5px;
+    font-size:15px;
+    width:100%;
+    text-align: center;
+    bottom:0px;
+    color:white;
+  }
 
 @media(max-width:1150px){
     .accordian_container{
